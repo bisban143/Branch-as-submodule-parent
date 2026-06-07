@@ -1,0 +1,12 @@
+[submodule "submodule-master"]
+	path = submodule-master
+	url = https://github.com/bisban143/Branch-as-submodule-parent.git
+	branch = master
+[submodule "submodule-feature-branch"]
+	path = submodule-feature-branch
+	url = https://github.com/bisban143/Branch-as-submodule-parent.git
+	branch = feature-branch
+[submodule "submodule-feature-branch-2"]
+	path = submodule-feature-branch-2
+	url = https://github.com/bisban143/Branch-as-submodule-parent.git
+	branch = feature-branch-2
